@@ -579,9 +579,9 @@ textarea {
 }
 
 .close-open {
-  position:absolute;
+  position: absolute;
   color: white;
   top: 0;
   right: 0;
-  margin:24px;
+  margin: 24px;
 }
